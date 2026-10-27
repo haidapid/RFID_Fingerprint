@@ -1,6 +1,6 @@
 # RFID & Fingerprint Attendance System
 
-A C++-based attendance system developed using ESP32 and Arduino as part of my Diploma 3 (D3) final project. The system integrates RFID technology, fingerprint recognition, and Wi-Fi connectivity to support user identification and attendance recording through a PHP server.
+A C++-based attendance system developed using ESP32 and Arduino as part of my Diploma 3 (D3) final project 2023 . The system integrates RFID technology, fingerprint recognition, and Wi-Fi connectivity to support user identification and attendance recording through a PHP server.
 
 ## Project Overview
 
