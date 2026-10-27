@@ -71,9 +71,6 @@ An LCD displays system messages, while a buzzer and relay provide additional har
 
 This project demonstrates the application of C++ programming, embedded systems, RFID technology, biometric identification, and client-server communication in an attendance management system.
 
-## Author
-
-**David Dwi Ariyadi**
 
 GitHub: [@haidapid](https://github.com/haidapid)
 
